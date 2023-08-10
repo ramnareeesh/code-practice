@@ -1,4 +1,5 @@
-
+# Vyasa like the number 239. He considers the numbers ending with either of the digits of the number 239 is considered
+# pretty. Help him find the pretty numbers between L and R (both inclusive).
 
 for i in range(int(input())):
     in_list = input().split(" ")
