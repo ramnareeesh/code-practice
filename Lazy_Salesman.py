@@ -6,6 +6,7 @@ for T in range(int(input())):
     for _ in range(len(A)):
         A[_] = int(A[_])
     A.sort(reverse=True)
+
     print(A)
     salary = 0
     work = 0
